@@ -1,0 +1,22 @@
+r0
+3 operations
+1L;
+2L;
+3L;
+r1.0
+2 operations
+-0,1
++1,2
+22L;
+222L;
+r2.0
+2 operations
++4,3
+_4L;
+_5L;
+55L
+-1,1
+r3
+1 operations
++6,1
+???;
